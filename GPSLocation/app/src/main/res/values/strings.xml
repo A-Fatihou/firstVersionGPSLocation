@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPSLocation</string>
+    <string name="lat">Lat:</string>
+    <string name="cell_tower_wifi">Cell Tower + Wifi</string>
+    <string name="sensor">Sensor:</string>
+
+    <string name="lon">lon:</string>
+
+    <string name="location_updates">Location Updates</string>
+    <string name="gps_savepower">GPS/SavePower</string>
+    <string name="address">Address:</string>
+    <string name="off">Off</string>
+    <string name="updates">Updates:</string>
+    <string name="speed">Speed:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="_0_00">0.00</string>
+    <string name="altitude">Altitude:</string>
+</resources>
