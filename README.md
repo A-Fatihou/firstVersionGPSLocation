@@ -1,4 +1,4 @@
-Avant de creer ma version d'app Tracker j'ai fais des recherche et des test voici la premier version de l'app espion
+Avant de creer ma version d'app Tracker j'ai fais des recherche et des test voici la premier version de l'app espion.
 Ici les image prise sur un appareil virtuel
 
 
