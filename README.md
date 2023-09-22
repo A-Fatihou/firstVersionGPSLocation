@@ -1,5 +1,7 @@
 Avant de creer ma version d'app Tracker j'ai fais des recherche et des test voici la premier version de l'app espion
 Ici les image prise sur un appareil virtuel
 
-![photo1](https://cdn.discordapp.com/attachments/816311961158418452/1152981932985040946/IMG_20230917_165818.png)
-![photo2](https://cdn.discordapp.com/attachments/816311961158418452/1152973992584548404/image.png)
+![image](https://github.com/A-Fatihou/firstVersionGPSLocation/assets/144955567/53f69fd4-1c94-4f58-81f5-d71e7221decc)
+
+![photo2](https://github.com/A-Fatihou/firstVersionGPSLocation/assets/144955567/f33ea1d7-268b-4ec4-a711-f30958815263)
+
